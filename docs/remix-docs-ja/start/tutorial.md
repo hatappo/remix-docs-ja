@@ -439,6 +439,7 @@ export default function App() {
 以上です！Remix は、このデータを UI と同期させ続けます。サイドバーは次のようになります。
 
 <img class="tutorial" loading="lazy" src="/docs-images/contacts/07.webp" />
+
 ## 型推論
 
 マップ内の `contact` 型について、TypeScript が警告を出していることに気づいたかもしれません。`typeof loader` を使用してデータについて型推論を行うために、簡単な注釈を追加できます。
